@@ -22,9 +22,7 @@ function dlt() {
 //   document.cookie = document.getElementById("output").value;
 //   console.log(document.cookie);
 // }
-function ziro() {
-  document.getElementById("output").value = 0;
-}
+
 // function point(val) {
 //   document.getElementById("output").value = val;
 //   if (!val.includes(".")) {
